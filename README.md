@@ -27,8 +27,8 @@
           
 
 
-<h3 align="center">Algumas informações sobre mim!</h3>
--    Fã de programação e tecnologia!
+<h3 align="center">Some information about me</h3>
+-  Programming and technology lover!
  
 - 🌱 Learning **Web (HTML, CSS e JS) and Python.**   
           
@@ -37,7 +37,7 @@
 - 📫 e-mail: **fabriciocherri@gmail.com**
 
 
-<h3 align="left">Minhas outras redes:</h3>
+<h3 align="left">Social medias:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fabr%C3%ADcio-cherri-011683230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guilherme-de-souza-videira-955797196/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fbcherri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_guivideira_" height="30" width="40" /></a>
