@@ -1,4 +1,4 @@
-## Hey! My name is Fabrício Cherri.
+Hey! My name is Fabrício Cherri.
 Welcome to my profile!
 
 
